@@ -3,10 +3,9 @@
 </h3>
 ________
 
+### 📷  GIF do projeto:
 
-### 📷  Screenshot do projeto:
-
-![](screenshots/1.png)
+![](screenshots/1.gif)
 ________
 
 <h4 align="center">
